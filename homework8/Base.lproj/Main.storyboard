@@ -199,6 +199,21 @@
             </objects>
             <point key="canvasLocation" x="807.24637681159425" y="75"/>
         </scene>
+        <!--New Screen-->
+        <scene sceneID="hHK-gH-Dof">
+            <objects>
+                <viewController id="1JQ-Yn-f1I" customClass="newScreen" customModule="homework8" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="2eC-Ig-G4M">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="KmR-GP-xRw"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="eeq-ae-nmy" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1728" y="110"/>
+        </scene>
         <!--Sing In View Controler-->
         <scene sceneID="HtF-6i-itz">
             <objects>
